@@ -1,9 +1,9 @@
 
 
 ### Hi there 👋
-I'm Shouvik. I'm interested in Maths, Computer Science and Programming.
+I'm Shouvik. I'm interested learning about in Maths, Computer Science and Programming and making projects.
 
-I'm interested in working on projects with others. Feel free to send me an email at shouvikg.cal@gmail.com if you want to work together.
+I'm also interested in working on projects with others. Feel free to send me an email at shouvikg.cal@gmail.com if you want to work together.
 
 Some of my projects:
 - [3D crossword](https://github.com/ShouvikGhosh2048/3d-crossword) - A website to create and solve 3D crosswords. Built with Typescript, React and React Three Fiber.
