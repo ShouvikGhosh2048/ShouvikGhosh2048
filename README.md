@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋
-I'm Shouvik. I'm interested learning about in Maths, Computer Science and Programming and making projects.
+I'm Shouvik. I'm interested in learning about Maths, Computer Science and Programming and making projects.
 
 I'm also interested in working on projects with others. Feel free to send me an email at shouvikg.cal@gmail.com if you want to work together.
 
